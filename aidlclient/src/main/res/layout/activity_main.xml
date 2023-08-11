@@ -44,5 +44,5 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:text="哆啦A梦超能力（计算）"
-        android:onClick="cacu"/>
+        android:onClick="calculator"/>
 </LinearLayout>
